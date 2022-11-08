@@ -1,0 +1,26 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "React practice",
+  "main": "app.js",
+  "scripts": {
+    "dev": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VladislavBVV/React.git"
+  },
+  "author": "Vladislav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VladislavBVV/React/issues"
+  },
+  "homepage": "https://github.com/VladislavBVV/React#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.19.3",
+    "@babel/core": "^7.20.2",
+    "@babel/preset-env": "^7.20.2",
+    "parcel": "^2.7.0"
+  }
+}
